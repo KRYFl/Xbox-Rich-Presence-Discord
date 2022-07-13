@@ -238,6 +238,12 @@
           "titleimage": "btf_badcompany",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb1353eab083bf555a21713f4b1f1ec2.jpg"
+        },
+        {
+          "titlename": "Vampire Survivors (Game Preview)",
+          "titleimage": "vampsurvivors",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/6faa9618f56b83b2959654137bba2429.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/6062d87c1add0f0058a388b797810c68.jpg"
         }
       ]
     }
